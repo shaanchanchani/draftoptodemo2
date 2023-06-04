@@ -1,0 +1,151 @@
+pick_num,team_name,player,player_team,player_pos,ADP
+1,Team1,Justin Jefferson,MIN,WR,2
+2,Team2,Christian McCaffrey,SF,RB,1
+3,Team3,Austin Ekeler,LAC,RB,3
+4,Team4,Bijan Robinson,ATL,RB,6
+5,Team5,Cooper Kupp,LAR,WR,8
+6,Team6,Saquon Barkley,NYG,RB,6
+7,Team7,Ja'Marr Chase,CIN,WR,6
+8,Team8,Travis Etienne Jr.,JAC,RB,24
+9,Team9,Tyreek Hill,MIA,WR,9
+10,Team10,Jonathan Taylor,IND,RB,6
+11,Team10,Josh Jacobs,LV,RB,13
+12,Team9,Travis Kelce,KC,TE,9
+13,Team8,Nick Chubb,CLE,RB,17
+14,Team7,Stefon Diggs,BUF,WR,13
+15,Team6,Derrick Henry,TEN,RB,17
+16,Team5,Davante Adams,LV,WR,16
+17,Team4,A.J. Brown,PHI,WR,15
+18,Team3,Breece Hall,NYJ,RB,19
+19,Team2,Tony Pollard,DAL,RB,13
+20,Team1,CeeDee Lamb,DAL,WR,17
+21,Team1,Mark Andrews,BAL,TE,23
+22,Team2,Rhamondre Stevenson,NE,RB,15
+23,Team3,T.J. Hockenson,MIN,TE,34
+24,Team4,Amon-Ra St. Brown,DET,WR,22
+25,Team5,Garrett Wilson,NYJ,WR,24
+26,Team6,Jaylen Waddle,MIA,WR,25
+27,Team7,Jalen Hurts,PHI,QB,29
+28,Team8,Najee Harris,PIT,RB,26
+29,Team9,Patrick Mahomes II,KC,QB,32
+30,Team10,Tee Higgins,CIN,WR,30
+31,Team10,Kenneth Walker III,SEA,RB,30
+32,Team9,Chris Olave,NO,WR,32
+33,Team8,Keenan Allen,LAC,WR,36
+34,Team7,Jahmyr Gibbs,DET,RB,30
+35,Team6,DeVonta Smith,PHI,WR,31
+36,Team5,Josh Allen,BUF,QB,36
+37,Team4,DK Metcalf,SEA,WR,36
+38,Team3,Joe Burrow,CIN,QB,52
+39,Team2,Amari Cooper,CLE,WR,42
+40,Team1,Lamar Jackson,BAL,QB,48
+41,Team1,Aaron Jones,GB,RB,33
+42,Team2,Drake London,ATL,WR,48
+43,Team3,Calvin Ridley,JAC,WR,50
+44,Team4,Joe Mixon,CIN,RB,36
+45,Team5,Dalvin Cook,MIN,RB,53
+46,Team6,Chris Godwin,TB,WR,42
+47,Team7,Deebo Samuel,SF,WR,41
+48,Team8,Mike Williams,LAC,WR,64
+49,Team9,J.K. Dobbins,BAL,RB,46
+50,Team10,DeAndre Hopkins,,WR,41
+51,Team10,Dallas Goedert,PHI,TE,57
+52,Team9,Miles Sanders,CAR,RB,49
+53,Team8,Justin Herbert,LAC,QB,65
+54,Team7,George Kittle,SF,TE,51
+55,Team6,Kyle Pitts,ATL,TE,59
+56,Team5,D'Andre Swift,PHI,RB,56
+57,Team4,Justin Fields,CHI,QB,60
+58,Team3,Dameon Pierce,HOU,RB,51
+59,Team2,Darren Waller,NYG,TE,81
+60,Team1,Christian Watson,GB,WR,55
+61,Team1,Cam Akers,LAR,RB,61
+62,Team2,Trevor Lawrence,JAC,QB,68
+63,Team3,DJ Moore,CHI,WR,53
+64,Team4,Jerry Jeudy,DEN,WR,60
+65,Team5,Tyler Lockett,SEA,WR,60
+66,Team6,Dak Prescott,DAL,QB,85
+67,Team7,Isiah Pacheco,KC,RB,69
+68,Team8,Marquise Brown,ARI,WR,71
+69,Team9,Christian Kirk,JAC,WR,68
+70,Team10,Deshaun Watson,CLE,QB,93
+71,Team10,Michael Pittman Jr.,IND,WR,57
+72,Team9,David Montgomery,DET,RB,71
+73,Team8,Terry McLaurin,WAS,WR,57
+74,Team7,Rachaad White,TB,RB,65
+75,Team6,Alvin Kamara,NO,RB,81
+76,Team5,Brandon Aiyuk,SF,WR,74
+77,Team4,Jaxon Smith-Njigba,SEA,WR,75
+78,Team3,Diontae Johnson,PIT,WR,73
+79,Team2,Mike Evans,TB,WR,70
+80,Team1,Alexander Mattison,MIN,RB,80
+81,Team1,James Conner,ARI,RB,73
+82,Team2,Treylon Burks,TEN,WR,80
+83,Team3,Jahan Dotson,WAS,WR,84
+84,Team4,Kadarius Toney,KC,WR,83
+85,Team5,Khalil Herbert,CHI,RB,96
+86,Team6,George Pickens,PIT,WR,83
+87,Team7,Javonte Williams,DEN,RB,77
+88,Team8,Rashod Bateman,BAL,WR,93
+89,Team9,James Cook,BUF,RB,87
+90,Team10,Courtland Sutton,DEN,WR,89
+91,Team10,Brian Robinson Jr.,WAS,RB,97
+92,Team9,Zach Charbonnet,SEA,RB,95
+93,Team8,Antonio Gibson,WAS,RB,104
+94,Team7,Samaje Perine,DEN,RB,98
+95,Team6,Jamaal Williams,NO,RB,104
+96,Team5,AJ Dillon,GB,RB,98
+97,Team4,Jordan Addison,MIN,WR,83
+98,Team3,Damien Harris,BUF,RB,106
+99,Team2,Tyler Allgeier,ATL,RB,112
+100,Team1,Rashaad Penny,PHI,RB,105
+101,Team1,Gabe Davis,BUF,WR,91
+102,Team2,JuJu Smith-Schuster,NE,WR,89
+103,Team3,Jameson Williams,DET,WR,103
+104,Team4,Brandin Cooks,DAL,WR,91
+105,Team5,Evan Engram,JAC,TE,105
+106,Team6,Jakobi Meyers,LV,WR,100
+107,Team7,Quentin Johnston,LAC,WR,98
+108,Team8,Zay Jones,JAC,WR,114
+109,Team9,Zay Flowers,BAL,WR,103
+110,Team10,Elijah Moore,CLE,WR,106
+111,Team10,Pat Freiermuth,PIT,TE,112
+112,Team9,Devon Achane,MIA,RB,114
+113,Team8,David Njoku,CLE,TE,116
+114,Team7,Dalton Kincaid,BUF,TE,122
+115,Team6,Dalton Schultz,HOU,TE,119
+116,Team5,Jerick McKinnon,KC,RB,112
+117,Team4,Chigoziem Okonkwo,TEN,TE,123
+118,Team3,Elijah Mitchell,SF,RB,119
+119,Team2,Cole Kmet,CHI,TE,125
+120,Team1,Kendre Miller,NO,RB,126
+121,Team1,Michael Thomas,NO,WR,100
+122,Team2,Jeff Wilson Jr.,MIA,RB,123
+123,Team3,Allen Lazard,NYJ,WR,109
+124,Team4,Jaylen Warren,PIT,RB,127
+125,Team5,Tyler Higbee,LAR,TE,126
+126,Team6,Raheem Mostert,MIA,RB,127
+127,Team7,Roschon Johnson,CHI,RB,131
+128,Team8,Kareem Hunt,,RB,131
+129,Team9,Odell Beckham Jr.,BAL,WR,118
+130,Team10,Kenneth Gainwell,PHI,RB,127
+131,Team10,San Francisco 49ers,SF,DST,129
+132,Team9,Buffalo Bills,BUF,DST,134
+133,Team8,Dallas Cowboys,DAL,DST,134
+134,Team7,Philadelphia Eagles,PHI,DST,135
+135,Team6,New York Jets,NYJ,DST,138
+136,Team5,New England Patriots,NE,DST,138
+137,Team4,Justin Tucker,BAL,K,135
+138,Team3,Denver Broncos,DEN,DST,139
+139,Team2,Baltimore Ravens,BAL,DST,141
+140,Team1,Tyler Bass,BUF,K,142
+141,Team1,Kansas City Chiefs,KC,DST,144
+142,Team2,Daniel Carlson,LV,K,143
+143,Team3,Harrison Butker,KC,K,145
+144,Team4,New Orleans Saints,NO,DST,145
+145,Team5,Evan McPherson,CIN,K,146
+146,Team6,Younghoe Koo,ATL,K,147
+147,Team7,Jason Sanders,MIA,K,149
+148,Team8,Michael Badgley,DET,K,300
+149,Team9,Matt Gay,IND,K,150
+150,Team10,Nick Folk,NE,K,149
